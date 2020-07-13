@@ -1,8 +1,9 @@
 # COVID19Project
 
-That project is in an alpha status. It is made for a course that hat as topic "pandemic Covid 19 prediction". In the case of that the jp notebook is a thougth how to use ML in case 
-of covid 19 predition with view on germany. 
+The project is part of a coursework at the LPU in India. The course has the topic "Covid 19 prediction using machine learning". 
 
-The idee is to understand howto use the data and wrangeling the data for a prediction. Howto handel the data.
+The paper is in alpha state and describes the thoughts and the process of how to deal with the requirements. Here the focus is on the handling of data and its processing. As the JP Notebook shows some mechanisms are necessary to generate the right data for a prediction. 
 
-the project is the being of a great walk to the next level of understandig ML DL 
+It describes my journey into the topic "ML/DL" it is a beginning for more.
+
+
